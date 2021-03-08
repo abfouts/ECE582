@@ -1,0 +1,8 @@
+{C:/Users/bramf/OneDrive/Documents/School/Winter2021/ECE 582/Projects/W21_ECE582/Project3/microwave.sv} {1 {vlog -work work -sv -stats=none {C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwave.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module microwave
+
+Top level modules:
+	microwave
+
+} {} {}}

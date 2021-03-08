@@ -1,0 +1,911 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# Loading project project3
+# Compile of microwavetb.sv was successful.
+vsim work.microwavetb
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui 
+# Start time: 13:16:23 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# Break key hit
+# Break in Module microwavetb at C:/Users/bramf/OneDrive/Documents/School/Winter2021/ECE 582/Projects/W21_ECE582/Project3/microwavetb.sv line 27
+restart -f
+
+end
+# wrong # args: should be "endpoint_image option ?arg arg ...?"
+end
+# wrong # args: should be "endpoint_image option ?arg arg ...?"
+quit
+quit -sim
+# Compile of microwavetb.sv was successful.
+vsim work.microwavetb
+# vsim 
+# Start time: 13:31:35 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 1001
+# States: 1001
+# States: 1001
+# States: 1001
+# States: 1001
+# States: 1001
+# States: 1001
+# States: 1001
+# States: 1101
+# States: 1101
+# States: 1101
+# States: 1101
+# States: 1101
+# States: 1101
+# States: 1101
+# States: 0100
+# States: 1100
+# States: 1110
+# States: 0110
+# States: 0110
+# States: 0110
+# States: 0110
+# States: 0110
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+# States: 0000
+quit -sim
+# Compile of microwavetb.sv was successful.
+vsim work.microwavetb
+# vsim 
+# Start time: 13:37:50 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+# Load canceled
+run
+# States: 0000
+# States: 1001
+# States: 1101
+# States: 0100
+# States: 1100
+# States: 1110
+# States: 0110
+# States: 0000
+quit -sim
+# Compile of microwavetb.sv was successful.
+vsim work.microwavetb
+# vsim 
+# Start time: 13:53:26 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# States: 0000
+# testedStates: 0000010
+# States: 1001
+# testedStates: 0000100
+# States: 1101
+# testedStates: 0001000
+# States: 0100
+# testedStates: 0010000
+# States: 1100
+# testedStates: 0100000
+# States: 1110
+# testedStates: 1000000
+# States: 0110
+# testedStates: 0000000
+# Break key hit
+quit -sim
+vsim work.microwavetb
+# vsim 
+# Start time: 13:54:29 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# States: 0000
+# testedStates: 0000010
+# States: 1001
+# testedStates: 0000100
+# States: 1101
+# testedStates: 0001000
+# States: 0100
+# testedStates: 0010000
+# States: 1100
+# testedStates: 0100000
+# States: 1110
+# testedStates: 1000000
+# States: 0110
+# testedStates: 0000000
+quit -sim
+# Compile of microwavetb.sv was successful.
+vsim work.microwavetb
+# vsim 
+# Start time: 13:55:13 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# States= xxxx
+# 
+# States: 0000
+# testedStates: 0000010
+# States= 0000
+# 
+# States: 1001
+# testedStates: 0000100
+# States= 1001
+# 
+# States: 1101
+# testedStates: 0001000
+# States= 1101
+# 
+# States: 0100
+# testedStates: 0010000
+# States= 0100
+# 
+# States: 1100
+# testedStates: 0100000
+# States= 1100
+# 
+# States: 1110
+# testedStates: 1000000
+# States= 1110
+# 
+# States: 0110
+# testedStates: 0000000
+# States= 0110
+# 
+# States= 0110
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+run
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 1110
+# 
+# States= 0110
+# 
+# States= 0110
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 1110
+# 
+# States= 0110
+# 
+# States= 0110
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+quit -sim
+# Compile of microwavetb.sv was successful.
+vsim work.microwavetb
+# vsim 
+# Start time: 14:04:24 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run -all
+# States: 0000
+# States: 1001
+# States: 1101
+# States: 0100
+# States: 1100
+# States: 1110
+# States: 0110
+# Break key hit
+# Break in Module microwavetb at C:/Users/bramf/OneDrive/Documents/School/Winter2021/ECE 582/Projects/W21_ECE582/Project3/microwavetb.sv line 25
+quit -sim
+# Compile of microwavetb.sv was successful.
+vsim work.microwavetb
+# vsim 
+# Start time: 14:06:53 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# States= xxxx
+# 
+# States: 0000
+# States= 0000
+# 
+# States= 0000
+# 
+# States: 1001
+# States= 1001
+# 
+# States= 0000
+# 
+run
+# States= 0000
+# 
+# States= 1001
+# 
+# States: 1101
+# States= 1101
+# 
+# States= 0000
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+run
+# States= 1101
+# 
+# States: 0100
+# States= 0100
+# 
+# States= 0000
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+# States= 0100
+# 
+# States: 1100
+# States= 1100
+# 
+# States= 0000
+# 
+quit -sim
+# Compile of microwavetb.sv was successful.
+vsim work.microwavetb
+# vsim 
+# Start time: 14:07:57 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run -all
+# States= xxxx
+# 
+# States= 0000
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+# States= 0000
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+# States= 0000
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+# States= 0100
+# 
+# States= 0000
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 0000
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 1110
+# 
+# States= 0000
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 1110
+# 
+# States= 0110
+# 
+# States= 0000
+# 
+# Break key hit
+# Simulation stop requested.
+quit -sim
+# Compile of microwavetb.sv was successful.
+vsim work.microwavetb
+# vsim 
+# Start time: 14:20:49 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# States= xxxx
+# 
+# States= 0000
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+run
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 1110
+# 
+# States= 1110
+# 
+# States= 0110
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 1110
+# 
+# States= 1110
+# 
+# States= 0110
+# 
+# States= 0000
+# 
+# States= 1001
+# 
+quit -sim
+# Compile of microwavetb.sv was successful.
+vsim work.microwavetb
+# vsim 
+# Start time: 14:25:18 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# States= xxxx
+# 
+# States= 0000
+# 
+run
+run
+run
+run
+run
+# States= 1001
+# 
+run
+# States= 1101
+# 
+run
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 1110
+# 
+run
+# States= 0110
+# 
+# States= 0000
+# 
+run
+# States= 1001
+# 
+quit -sim
+# Compile of microwavetb.sv was successful.
+vlog -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 {C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 14:27:51 on Mar 03,2021
+# vlog -reportprogress 300 -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv 
+# -- Compiling module microwavetb
+# 
+# Top level modules:
+# 	microwavetb
+# End time: 14:27:51 on Mar 03,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.microwavetb
+# vsim 
+# Start time: 14:27:53 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# States= xxxx
+# 
+# States= 0000
+# 
+run
+run
+run
+run
+run
+# States= 1001
+# 
+# States= 0000
+# 
+run
+run
+run
+run
+# States= 1001
+# 
+run
+# States= 1101
+# 
+# States= 0000
+# 
+run
+run
+run
+# States= 1001
+# 
+run
+# States= 1101
+# 
+run
+# States= 0100
+# 
+# States= 0000
+# 
+run
+run
+# States= 1001
+# 
+run
+# States= 1101
+# 
+run
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 0000
+# 
+run
+run
+# States= 1001
+# 
+run
+# States= 1101
+# 
+run
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 1110
+# 
+run
+# States= 0110
+# 
+# States= 0000
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+vlog -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 {C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 14:32:12 on Mar 03,2021
+# vlog -reportprogress 300 -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv 
+# -- Compiling module microwavetb
+# 
+# Top level modules:
+# 	microwavetb
+# End time: 14:32:13 on Mar 03,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vsim work.microwavetb
+# vsim 
+# Start time: 14:32:14 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+quit -sim
+vlog -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 {C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 14:33:36 on Mar 03,2021
+# vlog -reportprogress 300 -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv 
+# -- Compiling module microwavetb
+# 
+# Top level modules:
+# 	microwavetb
+# End time: 14:33:37 on Mar 03,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vsim work.microwavetb
+# vsim 
+# Start time: 14:33:38 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# States= xxxx
+# 
+# States= 0000
+# 
+run
+run
+run
+# Test case:           0
+# 
+run
+run
+# States= 1001
+# 
+# States= 0000
+# 
+run
+run
+# Test case:           1
+# 
+run
+run
+# States= 1001
+# 
+run
+# States= 1101
+# 
+# States= 0000
+# 
+run
+# Test case:           2
+# 
+run
+run
+# States= 1001
+# 
+run
+# States= 1101
+# 
+run
+# States= 0100
+# 
+# States= 0000
+# 
+# Test case:           3
+# 
+run
+run
+# States= 1001
+# 
+run
+# States= 1101
+# 
+run
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 0000
+# 
+# Test case:           4
+# 
+run
+run
+# States= 1001
+# 
+run
+# States= 1101
+# 
+run
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 1110
+# 
+# Test case:           5
+# 
+run
+# States= 0110
+# 
+# States= 0000
+# 
+run
+run
+run
+# Test case:           6
+# 
+run
+run
+run
+run
+run
+run
+quit -sim
+vlog -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 {C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 14:35:27 on Mar 03,2021
+# vlog -reportprogress 300 -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv 
+# -- Compiling module microwavetb
+# 
+# Top level modules:
+# 	microwavetb
+# End time: 14:35:27 on Mar 03,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.microwavetb
+# vsim 
+# Start time: 14:35:29 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# States= xxxx
+# 
+# States= 0000
+# 
+# Test case:           0
+# 
+# States= 1001
+# 
+# States= 0000
+# 
+# Test case:           1
+# 
+run
+# States= 1001
+# 
+# States= 1101
+# 
+# States= 0000
+# 
+# Test case:           2
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+# States= 0100
+# 
+# States= 0000
+# 
+# Test case:           3
+# 
+# States= 1001
+# 
+run
+# States= 1101
+# 
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 0000
+# 
+# Test case:           4
+# 
+# States= 1001
+# 
+# States= 1101
+# 
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 1110
+# 
+# States= 0000
+# 
+# Test case:           5
+# 
+# States= 1001
+# 
+run
+# States= 1101
+# 
+run
+# States= 0100
+# 
+# States= 1100
+# 
+# States= 1110
+# 
+run
+# States= 0110
+# 
+# States= 0000
+# 
+# Test case:           6
+# 
+quit -sim
+vlog -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 {C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwave.sv}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 14:38:47 on Mar 03,2021
+# vlog -reportprogress 300 -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwave.sv 
+# -- Compiling module microwave
+# 
+# Top level modules:
+# 	microwave
+# End time: 14:38:47 on Mar 03,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 {C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 14:38:50 on Mar 03,2021
+# vlog -reportprogress 300 -work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0 C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv 
+# -- Compiling module microwavetb
+# 
+# Top level modules:
+# 	microwavetb
+# End time: 14:38:50 on Mar 03,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.microwavetb
+# vsim 
+# Start time: 14:38:51 on Mar 03,2021
+# Loading sv_std.std
+# Loading work.microwavetb
+# Loading work.microwave
+run
+# States= xxxx
+# Asserting sys_reset on state: 0000
+# States= 0000
+# Test case:           0
+# 
+# Asserting sys_reset on state: 1001
+# States= 1001
+# States= 0000
+# Test case:           1
+# 
+# States= 1001
+# Asserting sys_reset on state: 1101
+# States= 1101
+# States= 0000
+# Test case:           2
+# 
+# States= 1001
+# States= 1101
+# Asserting sys_reset on state: 0100
+# States= 0100
+# States= 0000
+# Test case:           3
+# 
+# States= 1001
+# States= 1101
+# States= 0100
+# Asserting sys_reset on state: 1100
+# States= 1100
+# States= 0000
+# Test case:           4
+# 
+# States= 1001
+# States= 1101
+# States= 0100
+# States= 1100
+# Asserting sys_reset on state: 1110
+# States= 1110
+# States= 0000
+# Test case:           5
+# 
+# States= 1001
+# States= 1101
+# States= 0100
+# States= 1100
+# States= 1110
+# Asserting sys_reset on state: 0110
+# States= 0110
+# States= 0000
+# Test case:           6
+# 

@@ -1,0 +1,48 @@
+MODULE main
+	VAR
+		start : boolean;
+		closed : boolean;
+		reset : boolean;
+		done : boolean;
+		heat : boolean;
+		error : boolean;
+		sys_reset : boolean;
+		
+	ASSIGN
+		init(error) := FALSE;
+		init(heat) := FALSE;
+		init(closed) := FALSE;
+		init(start) := FALSE;
+		init(done) 	:= FALSE;
+		init(reset) := FALSE;
+		init(sys_reset) := FALSE;
+		
+		next(start) :=
+			case
+				sys_reset : FALSE;
+				TRUE		: start;
+			esac;
+
+		next(closed) :=
+			case
+				sys_reset 	: FALSE;
+				TRUE		: closed;
+			esac;
+			
+		next(error) :=
+			case
+				start & !closed : TRUE;
+				closed & reset 	: FALSE;
+				sys_reset 		: FALSE;
+				TRUE			: error;
+			esac;
+			
+		next(heat) :=
+			case
+				start & closed	: TRUE;
+				!closed			: FALSE;
+				done & closed	: FALSE;
+				sys_reset 		: FALSE;
+				TRUE			: heat;
+			esac;
+		

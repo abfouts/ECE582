@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Bram/OneDrive/Documents/School/Winter2021/ECE 582/Projects/Project 1
+vmicrowave
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1614811127
+!i10b 1
+!s100 U7i@knj8O:Rc6P1FmT5HN0
+I5N;Z57_Eh=n=KX5Y4o<AU2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!s105 microwave_sv_unit
+S1
+Z2 dC:/Users/bramf/OneDrive/Documents/School/Winter2021/ECE 582/Projects/W21_ECE582/Project3
+w1614724488
+8C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwave.sv
+FC:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwave.sv
+L0 4
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1614811127.000000
+!s107 C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwave.sv|
+!s90 -reportprogress|300|-work|work|-sv|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|-O0|C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwave.sv|
+!s101 -O0
+!i113 1
+Z4 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmicrowavetb
+R0
+!s110 1614816119
+!i10b 1
+!s100 aXKAdgUOZZ5N]WUBJT=;S3
+IA:^IGRKPfJ[eP7Q6D02E50
+R1
+!s105 microwavetb_sv_unit
+S1
+R2
+w1614816102
+8C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv
+FC:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv
+L0 7
+R3
+r1
+!s85 0
+31
+!s108 1614816119.000000
+!s107 C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|-O0|C:\Users\bramf\OneDrive\Documents\School\Winter2021\ECE 582\Projects\W21_ECE582\Project3\microwavetb.sv|
+!s101 -O0
+!i113 1
+R4
